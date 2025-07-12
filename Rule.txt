@@ -1,0 +1,8 @@
+Welcome to the Coltaz Game.
+It is a Number Guessing-like game.
+Before You play this game, you have to know about Coltaz Guess Theory
+It is like this:
+  If the number is odd, do odd number * 3 + 1
+  Else, the number is even, do even number / 2
+To base these things, you can play the Coltaz Game
+Good Luck!
